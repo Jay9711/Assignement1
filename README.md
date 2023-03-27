@@ -4,7 +4,10 @@ The link for the dataset can be found at : https://www.kaggle.com/datasets/saman
 
 #STEPS TO USE THE CODE.
 
-Download the dataset and make the correct file PATH
-Click on the ipynb file and it will open up on your Google Colab.
-Enter Ctrl + F9 ( To execute all the cells.)
-Modify the code the way you want to increase the efficently.
+1.Download the dataset and make the correct file PATH
+
+2. Click on the ipynb file and it will open up on your Google Colab.
+
+3. Enter Ctrl + F9 ( To execute all the cells.)
+
+4. Modify the code the way you want to increase the efficently.
